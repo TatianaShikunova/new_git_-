@@ -62,7 +62,6 @@
  >git merge branch_name
  
  изменения добавятся в текущую ветку
-
  
- 
-
+ Для того, чтобы удалить ветку branch_name, нужно:
+ > git branch -d branch_name

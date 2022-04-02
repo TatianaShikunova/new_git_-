@@ -54,8 +54,15 @@
 
 Для просмотра всех веток:
 > git branch
+
+Для перехода к ветке branch_name, используем:
+ >git checkout branch_name git
  
  Для совмещения текущей ветки с веткой branch_name:
  >git merge branch_name
  
  изменения добавятся в текущую ветку
+
+ 
+ 
+

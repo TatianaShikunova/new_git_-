@@ -55,3 +55,6 @@
 Для просмотра всех веток:
 > git branch
  
+ Для перехода к ветке branch_name, используем:
+ >git checkout branch_name
+ 

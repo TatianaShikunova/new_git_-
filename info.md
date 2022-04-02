@@ -55,3 +55,5 @@
 Для просмотра всех веток:
 > git branch
  
+ Для того, чтобы удалить ветку branch_name, нужно:
+ > git branch -d branch_name
